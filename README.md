@@ -1,6 +1,7 @@
 Rachel Nolan
 ===========
-I'm a junior level Software Developer with a background in export logistics and operations within the perishable-food industry. I am passionate about good software and UX and have changed career paths to pursue this obsession and develop transformational, functional web applications. I have devoted the last three months to learn how to code at [Makers Academy](http://www.makersacademy.com/) [Read my code](https://github.com/SBLLB) on GitHub.
+I'm a junior level Software Developer with a background in export logistics and operations within the perishable-food sector. I am passionate about good software and UX and have decisively changed career path to pursue this obsession and to develop transformational, functional web applications. I have devoted the last three months to learn how to code at [Makers Academy](http://www.makersacademy.com/)  
+[Read my code](https://github.com/SBLLB) on GitHub.
 
 Code examples
 -------------
@@ -16,7 +17,9 @@ Web Development
 ##### 12 week immersive developer bootcamp: 
 ##### Sept 2014 - Dec 2014
 
-[My time at Makers Academy](https://github.com/SBLLB/My_Time_at_Makers_Academy)
+A summary of the projects and code written during [my time at Makers Academy](https://github.com/SBLLB/My_Time_at_Makers_Academy)
+
+##### Skills learned
 
 - Agile values, principles and practices
 - TDD, BDD
@@ -49,7 +52,8 @@ Experience
 ##### Founder - Monthly Cheese Subscription
 ##### Feb 2014 - Sept 2014
 
-My passion for cheese had been a running theme for many years. After travelling I decided to turn this passion into a business and launched The Dairy Girl, a monthly cheese subscription service. 
+My passion for cheese had been a running theme for many years. After travelling I decided to turn this passion into a business and launched The Dairy Girl, a monthly cheese subscription service. Read a [review of The Dairy Girl.](http://www.hotandchilli.com/2014/06/the-dairy-girl.html)
+
 
 * Provided subscription cheese boxes to customers in the UK 
 * Sourced directly from producers  
@@ -63,7 +67,6 @@ My passion for cheese had been a running theme for many years. After travelling 
 * Managing social media, advertising etc
 * Tastings and promotional events 
 
-[Review of The Dairy Girl](http://www.hotandchilli.com/2014/06/the-dairy-girl.html)
 
 ### [Travelling](http://thewrongwayrtw.blogspot.co.uk/)
 ##### Nov 2012 - Dec 2013 
@@ -100,3 +103,18 @@ Education
 
 ### University of Kent - 2:1 Law
 ##### 2005 - 2008
+
+### Chislehurst and Sidcup Grammar School - 2:1 Law
+##### 1997 - 2004
+* A Levels – 2 A’s, 1 B 	
+* AS Levels – 1 B, 1 C	
+* GCSE’s – 1 A*, 9A’s, 1B 
+
+Contact Me
+---------------
+
+* Email - [mail@rachelnolan.com](mailto:mail@rachelnolan.com)
+* Phone - +44 7754 518 168
+* Twitter- [@SBLLB](https://twitter.com/SBLLB)
+* LinkedIn - [Rachel Nolan](https://www.linkedin.com/in/rachelnolanuk)
+
