@@ -1,9 +1,10 @@
 Rachel Nolan
 ===========
 I'm a junior level Software Developer with a background in export logistics and operations within the perishable-food sector. I am passionate about good software and UX and have decisively changed career path to pursue this obsession and to develop transformational, functional web applications. I have devoted the last three months to learn how to code at [Makers Academy](http://www.makersacademy.com/)  
+
 [Read my code](https://github.com/SBLLB) on GitHub.
 
-Code examples
+Code Examples
 -------------
 
 | [Ten Pin Bowling](https://github.com/SBLLB/10Pin_Bowling_Scorer) | [Yelp Clone](https://github.com/SBLLB/yelp_clone) | [Rock, Paper, Scissors](https://github.com/SBLLB/RockPaperScissors) |
@@ -101,10 +102,11 @@ My passion for cheese had been a running theme for many years. After travelling 
 Education
 ---------------
 
-### University of Kent - 2:1 Law
+### University of Kent 
 ##### 2005 - 2008
+* 2:1 Law
 
-### Chislehurst and Sidcup Grammar School - 2:1 Law
+### Chislehurst and Sidcup Grammar School 
 ##### 1997 - 2004
 * A Levels – 2 A’s, 1 B 	
 * AS Levels – 1 B, 1 C	
