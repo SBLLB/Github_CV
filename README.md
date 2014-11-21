@@ -42,7 +42,6 @@ A summary of the projects and code written during [my time at Makers Academy](ht
 - JavaScript, jQuery, AJAX
 - API's (Twillo, Stribe, Github)
 - PostgreSQL, ActiveRecord
-- Deployment to Heroku
 - WebSockets
 
 
