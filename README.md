@@ -7,9 +7,9 @@ I'm a junior level Software Developer with a background in export logistics and 
 Code Examples
 -------------
 
-| [Ten Pin Bowling](https://github.com/SBLLB/10Pin_Bowling_Scorer) | [Yelp Clone](https://github.com/SBLLB/yelp_clone) | [Rock, Paper, Scissors](https://github.com/SBLLB/RockPaperScissors) |
+| [Ten Pin Bowling](https://github.com/SBLLB/10Pin_Bowling_Scorer) | [Yelp Clone](https://github.com/SBLLB/yelp_clone) | [Flicky Notes](https://github.com/karinnielsen/Final-Project-POSTit) |
 | ------------- | ------------ | ---------- |
-| Ten pin bowling is written in Javascript to calculate the score for a ten pin bowling player. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Rock Paper Scissors is a test driven Object Oriented exercise designed to be played in the browser, built in Ruby. |
+| Ten pin bowling is written in Javascript to calculate the score for a ten pin bowling player. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop. The mobile is also then used to pick up and move notes on the board using device orientation. Built in Meteor.js.  |
 
 Web Development
 ---------------
