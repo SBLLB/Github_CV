@@ -55,11 +55,11 @@ Experience
 My passion for cheese had been a running theme for many years. After travelling I decided to turn this passion into a business and launched The Dairy Girl, a monthly cheese subscription service. Read a [review of The Dairy Girl.](http://www.hotandchilli.com/2014/06/the-dairy-girl.html)
 
 
-* Provided subscription cheese boxes to customers in the UK 
+* My passion for cheese had been a running theme for many years. After travelling I decided to turn this passion into a business and launched The Dairy Girl, a monthly cheese subscription service.
 * Sourced directly from producers  
 * Took the idea from concept to implementation
 * Self funded
-* Selected recurring payment platforms
+* Selected recurring payment platforms - Moonclerk and Stripe
 * Led branding, website build, product design
 * Established logistics system
 * EHO compliance
