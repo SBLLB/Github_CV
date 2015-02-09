@@ -78,17 +78,21 @@ My passion for cheese had been a running theme for many years. After travelling 
 ##### Export Logistics Manager 
 ##### Jan 2011 - Nov 2012
 
-* Ensuring strict compliance with all local and international export/import laws 
-* Working in close collaboration with Operations and Quality Assurance teams
-* Database improvement - Wholesale Database Migration project management (moving data from Filemaker to 
-* Managing 3PL partners
-* Continually assessing and improving the efficiency of the supply chain, invariably involving cross-department liaison
-* Identifying the cost drivers in the export process, researching, negotiating and implementing suitable alternatives
-* Balancing the needs of cost savings vs. quality and integrity of the products
-* Tracking and analysing transport costs
-* Identifying and implementing haulage cost savings
-* Responsible for provision of timely, clear and highly accurate information to relevant third parties (e.g. Customs, DEFRA, Rural Payments Agency) 
-* Keeping up to date with changes to legislation and adapting systems accordingly
+* Managing Neal’s Yard Dairy’s export logistics to worldwide destinations. Maintaining the company’s exceptional level of customer service and quality of product throughout.
+* Initiated and managed project to replace company’s main database and maturing/cheese selection/packing systems. Working in conjunction with the Operations Director to define the specification and deliverables required for the Stock/Sales/Packing/Export side of the business. Reviewing tenders and working with chosen supplier to develop the database design, run testing and outline a change control plan.
+* Managing relationships and contractual agreements with transporters, distributors and 3PL partners.
+* Ensuring strict compliance with all export/import laws by working in collaboration with Operations and
+QA teams. 
+* Keeping up to date with changes to legislature and adapting systems accordingly.
+* Responsible for provision of timely, clear and highly accurate information to relevant third parties (e.g.
+Customs, DEFRA, Rural Payments Agency.)
+* Continually assessing the efficiency of the supply chain, invariably involving cross-department liaison.
+* Identifying the cost drivers in the export process, researching, negotiating and implementing suitable
+alternatives, whilst constantly balancing cost savings vs. quality and integrity of our products.
+* ‘Transport Coordinator’ for the London 2012 Olympics and Paralympics. Changing delivery and
+collection timetables, staff rotas, export schedules, lead times for orders etc.
+* Working with the retail, wholesale, packing and maturing teams to further knowledge of the products,
+develop understanding of how each department works and strengthen inter-department relations.
 
 ### [Philpott Black](http://www.philpottblack.com/)
 #####  Operations Manager
