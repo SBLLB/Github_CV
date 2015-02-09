@@ -90,13 +90,30 @@ My passion for cheese had been a running theme for many years. After travelling 
 * Responsible for provision of timely, clear and highly accurate information to relevant third parties (e.g. Customs, DEFRA, Rural Payments Agency) 
 * Keeping up to date with changes to legislation and adapting systems accordingly
 
-
 ### [Philpott Black](http://www.philpottblack.com/)
 #####  Operations Manager
 #####  Mar 2009 - Jan 2011 
 
-* Small management consultancy practice working with multi-national clients
-* Managed back office, consultants network and client events
+*Responsible for the operation of a small management consultancy practice working with large, multi- national clients. Responding to client enquiries; invoicing; negotiating contracts; organising events.
+* Initiating, researching, designing and implementing a new ‘Consultants’ Portal’ to aid internal communication, cohesion and discussion between consultants.
+* Streamlining back office moving to a more technology driven and cost effective environment.
+* Other responsibilities: dealing with client enquiries and requests quickly and efficiently; invoicing;
+negotiating contract terms; organising clients events (up to 200+ pax) and internal team events.
+
+
+
+### [Oasis Community Learning](http://www.oasiscommunitylearning.org/)
+#####  PA to HR Director
+#####  Nov 2008 - Apr 2009 
+
+* Planning, organisation and implementation of fundraising events. PA duties; managing stakeholder websites; researching, writing and implementing policies.
+
+### [FirstCare](http://www.firstcare.eu/)
+#####  Office Administrator / PA to CEO
+#####  May 2008 - Sept 2008 / May 2006 - Sept 2006 / Oct 2004 - May 2005 
+
+* Multiple stints working at the start-up FirstCare throughout pre-university and during holidays as Office Administrator/ Acting PA to MD, I returned after finishing university as PA to their CEO.
+
 
 Education
 ---------------
