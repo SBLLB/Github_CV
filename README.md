@@ -1,6 +1,9 @@
 Rachel Nolan
 ===========
-I'm a junior level Software Developer with a background in export logistics and operations within the perishable-food sector. I am passionate about good software and UX and have decisively changed career path to pursue this obsession and to develop transformational, functional web applications. I have devoted the last three months to learn how to code at [Makers Academy](http://www.makersacademy.com/)  
+A junior level Software Developer with a background in export logistics and operations within the perishable-food sector. Passionate about good software and UX, decisively changing career path to pursue this obsession and to develop transformational, functional web applications. Recently graduated from [Makers Academy](http://www.makersacademy.com/), an intensive web development course.
+
+Previous, transferable experience working as Logistics Manager at an artisan dairy and, more recently, Founder of a subscription-based cheese delivery service. Proven analytical and problem solving skills teamed with self-motivation and an ability to improve systems/processes in collaboration with stakeholders. Strong multi-tasker, working accurately in fast paced, challenging environments whilst always maintaining a positive, energetic demeanour.
+
 
 [Read my code](https://github.com/SBLLB) on GitHub.
 
