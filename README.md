@@ -1,21 +1,51 @@
 Rachel Nolan
 ===========
-A junior level Software Developer with a background in export logistics and operations within the perishable-food sector. Passionate about good software and UX, decisively changing career path to pursue this obsession and to develop transformational, functional web applications. Recently graduated from [Makers Academy](http://www.makersacademy.com/), an intensive web development course.
+A Web Developer with a background in export logistics and operations within the perishable-food sector. Passionate about good software and UX, decisively changed career path in 2014 to pursue this obsession and to develop transformational, functional web applications. Now working at Atos Consulting as a Consultant/Developer since graduating from [Makers Academy](http://www.makersacademy.com/), an intensive web development course in December 2014. 
+
+As [Consultant Developer at Atos](https://github.com/SBLLB/Github_CV#atos-consulting) I work in a team of 6 developing quick-iteration products and protoypes (typically 6-12 weeks). Involved in the full life cycle of the projects, from problem definition with clients, user stories, wireframing, devlopment, deployment, testing and user feedback. Well versed in 
 
 Previous, transferable experience working as Logistics Manager at an artisan dairy and, more recently, Founder of a subscription-based cheese delivery service. Proven analytical and problem solving skills teamed with self-motivation and an ability to improve systems/processes in collaboration with stakeholders. Strong multi-tasker, working accurately in fast paced, challenging environments whilst always maintaining a positive, energetic demeanour.
 
 
 [Read my code](https://github.com/SBLLB) on GitHub.
 
-Code Examples
--------------
-
-| [Ten Pin Bowling](https://github.com/SBLLB/10Pin_Bowling_Scorer) | [Yelp Clone](https://github.com/SBLLB/yelp_clone) | [Flicky Notes](https://github.com/karinnielsen/Final-Project-POSTit) |
-| ------------- | ------------ | ---------- |
-| Ten pin bowling is written in Javascript to calculate the score for a ten pin bowling player. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop. The mobile is also then used to pick up and move notes on the board using device orientation. Built in Meteor.js.  |
 
 Web Development
+
 ---------------
+### [Atos Consulting](http://uk.atosconsulting.com/en-uk/home.html)
+##### Consultant Developer 
+##### Mar 2015 - present
+
+Part of a new team of developers in the Digital Technology Unit, specifically aimed at developing quick iteration prototypes and products for clients, such as, BBC; British Airways; First Great Western, NHS and internal Atos departments.
+
+##### Core Development Stack
+- Node.js / Express
+- MongoDB/Mongoose
+- Jade
+- Bootstrap
+- HTML5 / CSS3
+- Javascript 
+- ElasticSearch
+- Gulp
+- Bole / Bunion
+- Mocha / Chai / Sinon / Supertest
+- Heroku / Cloud Canopy (Ubuntu Servers)
+- Pivotal Tracker
+- Git 
+
+##### Experience also with: 
+- Postgres 
+- Sass 
+- Lodash 
+- Async 
+- Grunt 
+- Ruby 
+- RoR 
+- Balsamiq 
+- Cordova 
+- Okta SSO
+
 
 ### [Makers Academy](http://www.makersacademy.com/)
 ##### 12 week immersive developer bootcamp: 
@@ -46,6 +76,13 @@ A summary of the projects and code written during [my time at Makers Academy](ht
 - API's (Twillo, Stribe, Github)
 - PostgreSQL, ActiveRecord
 - WebSockets
+
+Code Examples from Makers Academy
+-------------
+
+| [Ten Pin Bowling](https://github.com/SBLLB/10Pin_Bowling_Scorer) | [Yelp Clone](https://github.com/SBLLB/yelp_clone) | [Flicky Notes](https://github.com/karinnielsen/Final-Project-POSTit) |
+| ------------- | ------------ | ---------- |
+| Ten pin bowling is written in Javascript to calculate the score for a ten pin bowling player. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop. The mobile is also then used to pick up and move notes on the board using device orientation. Built in Meteor.js.  |
 
 
 Experience
