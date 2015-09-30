@@ -2,7 +2,7 @@ Rachel Nolan
 ===========
 A Web Developer with a background in export logistics and operations within the perishable-food sector. Passionate about good software and UX, decisively changed career path in 2014 to pursue this obsession and to develop transformational, functional web applications. Now working at Atos Consulting as a Consultant/Developer since graduating from [Makers Academy](http://www.makersacademy.com/), an intensive web development course in December 2014. 
 
-As [Consultant Developer at Atos](https://github.com/SBLLB/Github_CV#atos-consulting) I work in a team of 6 developing quick-iteration products and protoypes (typically 6-12 weeks). Involved in the full life cycle of the projects, from problem definition with clients, user stories, wireframing, devlopment, deployment, testing and user feedback. Well versed in 
+As [Consultant Developer at Atos](https://github.com/SBLLB/Github_CV#atos-consulting) I work in a team of 6 developing quick-iteration products and prototypes (typically 6-12 weeks). Involved in the full life cycle of the projects, from problem definition with clients, user stories, wire-framing, development, deployment, testing and user feedback. Well versed in Agile methodology from this role.
 
 Previous, transferable experience working as Logistics Manager at an artisan dairy and, more recently, Founder of a subscription-based cheese delivery service. Proven analytical and problem solving skills teamed with self-motivation and an ability to improve systems/processes in collaboration with stakeholders. Strong multi-tasker, working accurately in fast paced, challenging environments whilst always maintaining a positive, energetic demeanour.
 
@@ -82,7 +82,7 @@ Code Examples from Makers Academy
 
 | [Ten Pin Bowling](https://github.com/SBLLB/10Pin_Bowling_Scorer) | [Yelp Clone](https://github.com/SBLLB/yelp_clone) | [Flicky Notes](https://github.com/karinnielsen/Final-Project-POSTit) |
 | ------------- | ------------ | ---------- |
-| Ten pin bowling is written in Javascript to calculate the score for a ten pin bowling player. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop. The mobile is also then used to pick up and move notes on the board using device orientation. Built in Meteor.js.  |
+| Ten Pin Bowling is written in Javascript to calculate the score for a ten pin bowling player. | Yelp Clone is a restaurant review site built using the Rails framework over 5 days at Makers Academy. | Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop. The mobile is also then used to pick up and move notes on the board using device orientation. Built in Meteor.js.  |
 
 
 Experience
@@ -92,19 +92,19 @@ Experience
 ##### Founder - Monthly Cheese Subscription
 ##### Feb 2014 - Sept 2014
 
-My passion for cheese had been a running theme for many years. After travelling I decided to turn this passion into a business and launched The Dairy Girl, a monthly cheese subscription service. Read a [review of The Dairy Girl.](http://www.hotandchilli.com/2014/06/the-dairy-girl.html)
+My passion for cheese had been a running theme for many years. After travelling I decided to turn this passion into a business and launched The Dairy Girl, a monthly cheese subscription service. Read a [ review of The Dairy Girl.](http://www.hotandchilli.com/2014/06/the-dairy-girl.html)
 
 
 * My passion for cheese had been a running theme for many years. After travelling I decided to turn this passion into a business and launched The Dairy Girl, a monthly cheese subscription service.
 * Sourced directly from producers  
 * Took the idea from concept to implementation
-* Self funded
+* Self-funded
 * Selected recurring payment platforms - Moonclerk and Stripe
 * Led branding, website build, product design
 * Established logistics system
 * EHO compliance
 * Writing monthly tasting notes
-* Managing social media, advertising etc
+* Managing social media, advertising etc.
 * Tastings and promotional events 
 
 
@@ -114,7 +114,7 @@ My passion for cheese had been a running theme for many years. After travelling 
 * French Alps - ski season
 * Travels to America; Canada; French Polynesia; New Zealand; Australia; South East Asia and South Africa.
 
-### [Neals Yard Dairy](http://www.nealsyarddairy.co.uk/)
+### [Neal's Yard Dairy](http://www.nealsyarddairy.co.uk/)
 ##### Export Logistics Manager 
 ##### Jan 2011 - Nov 2012
 
@@ -125,13 +125,13 @@ My passion for cheese had been a running theme for many years. After travelling 
 QA teams. 
 * Keeping up to date with changes to legislature and adapting systems accordingly.
 * Responsible for provision of timely, clear and highly accurate information to relevant third parties (e.g.
-Customs, DEFRA, Rural Payments Agency.)
+Customs, DEFRA, Rural Payments Agency).
 * Continually assessing the efficiency of the supply chain, invariably involving cross-department liaison.
 * Identifying the cost drivers in the export process, researching, negotiating and implementing suitable
 alternatives, whilst constantly balancing cost savings vs. quality and integrity of our products.
 * ‘Transport Coordinator’ for the London 2012 Olympics and Paralympics. Changing delivery and
 collection timetables, staff rotas, export schedules, lead times for orders etc.
-* Working with the retail, wholesale, packing and maturing teams to further knowledge of the products,
+* Working with the retail, wholesale, packing and maturing teams to further personal knowledge of the products,
 develop understanding of how each department works and strengthen inter-department relations.
 
 ### [Philpott Black](http://www.philpottblack.com/)
@@ -142,7 +142,7 @@ develop understanding of how each department works and strengthen inter-departme
 * Initiating, researching, designing and implementing a new ‘Consultants’ Portal’ to aid internal communication, cohesion and discussion between consultants.
 * Streamlining back office moving to a more technology driven and cost effective environment.
 * Other responsibilities: dealing with client enquiries and requests quickly and efficiently; invoicing;
-negotiating contract terms; organising clients events (up to 200+ pax) and internal team events.
+negotiating contract terms; organising client events (up to 200+ pax) and internal team events.
 
 
 
